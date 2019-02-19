@@ -1,0 +1,18 @@
+{
+    "name": "itkee/laravel-upload",
+    "description": "upload",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name":"SuperMan",
+            "email":"superman@itkee.cn"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Itkee\\LaravelUpload\\": "src/"
+        }
+    }
+}
